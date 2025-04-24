@@ -63,7 +63,7 @@ export default function Home() {
     e.preventDefault();
     
     try {
-      const scriptURL = 'https://script.google.com/macros/s/AKfycbw02DVdnMgbC5mh3GgnaJ_yPPaopS5hm5s8jdmg7_4_qUJPw6XAcozx0ewmK6YCLIaT/exec';
+      const scriptURL = 'https://script.google.com/macros/s/AKfycbyl7DvWsGA9cYQnA7r1my2GuZpej5Ni0VuhVKh9s6Q5fE5M8BH4si9yuerq2T4OyIc/exec';
       
       const formDataToSend = {
         name: formData.name,
